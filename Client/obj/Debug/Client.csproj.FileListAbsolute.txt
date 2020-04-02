@@ -1,0 +1,8 @@
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\bin\Debug\Client.exe.config
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\bin\Debug\Client.exe
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\bin\Debug\Client.pdb
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\obj\Debug\Client.exe
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\obj\Debug\Client.pdb
+C:\Users\moham\Desktop\NP\NP_Assignment\Client\obj\Debug\Client.ClientForm.resources
